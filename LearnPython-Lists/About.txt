@@ -1,0 +1,1 @@
+Hand on to know most of available operations on Lists.
