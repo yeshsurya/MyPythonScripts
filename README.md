@@ -5,7 +5,7 @@ Desktop Cleaner :
 
 [<br>
 Running Script : <br>
-1.Install pytho here : https://www.python.org/downloads/ <br>
+1.Install python here : https://www.python.org/downloads/ <br>
 2.Open command prompt(windows) or terminal (Mac)<br>
 3.Navigate to location whre desktopCleaner.py is present <br>
 4.Type "python desktopCleaner.py" ( Assuming python got installed successfully ]) <br>
