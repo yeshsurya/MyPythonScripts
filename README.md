@@ -14,3 +14,4 @@ Running Script : <br>
 Run this script to move all files to a Folder named "DesktopStack".<br>
 Folders will be created inside "DesktopStack" based on uniqe file extensions found on the desktop.<br>
 All the files will be moved based on extension name into those respecitve folders.<br>
+<hr>
