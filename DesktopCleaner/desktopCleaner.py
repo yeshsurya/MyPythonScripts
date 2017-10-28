@@ -19,8 +19,11 @@ if(os.access(filePath,os.W_OK)):
             continue
         else:
             extnList.append(ele.split(".")[-1])
-if(os.access(join(filePath,"\DeskStack"),os.W_OK)):
-    os.mkdir(filePath+"\DeskStack")
+if(not os.access(join(filePath,"\DeskStack"),os.W_OK)):
+    try:
+        os.mkdir(filePath+"\DeskStack")
+    except:
+        None
 for ele in extnList:
     print(filePath+"\\"+"DeskStack\\"+ele)
     try:
