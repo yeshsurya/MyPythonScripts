@@ -3,7 +3,7 @@ from os import listdir
 from os.path import  isfile,join
 import shutil
 # print(os.path.join(os.environ['HOMEPATH'])+"\Desktop")
-filePath = os.path.join(os.environ['HOMEPATH'])+"\Desktop"
+filePath = os.path.abspath(os.getenv('HOMEPATH'))+"\Desktop"
 # print(os.W_OK)
 
 # Check if path is accessible
