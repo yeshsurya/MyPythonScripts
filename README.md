@@ -18,3 +18,8 @@ Folders will be created inside "DesktopStack" based on uniqe file extensions fou
 All the files will be moved based on extension name into those respecitve folders.
 </br>
 <hr>
+
+<h2> Slide Share Slides Downloader </h2>
+<ul>
+<li> Utility to download all the slides from the slideshare page. </li>
+</ul>
