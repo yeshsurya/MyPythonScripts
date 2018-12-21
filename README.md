@@ -23,3 +23,8 @@ All the files will be moved based on extension name into those respecitve folder
 <ul>
 <li> Utility to download all the slides from the slideshare page. </li>
 </ul>
+</hr>
+<h2>Directory Maker</h2>
+<ul>
+<li> Given a text file with list of Names delimited by carriage return, utility will create a folder for each element in the list. </li>
+</ul>
