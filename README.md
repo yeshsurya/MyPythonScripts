@@ -30,3 +30,5 @@ All the files will be moved based on extension name into those respecitve folder
 </ul>
 
 <hr>
+<h2> Remote SSH Command Executer </h2>
+<li> Project vision is to pick a file containing list of hosts and command to be executed and print the required result to output file</li>
