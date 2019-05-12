@@ -13,7 +13,7 @@ hostname = '3.204.36.157'
 port = 22
 username = 'sdc' 
 password = 'adw2.0'
-command = 'ls'
+command = 'swic'
 
 client = paramiko.Transport((hostname, port))
 client.connect(username=username, password=password)
@@ -31,8 +31,9 @@ while True:
         break
 
 print('exit status: ', session.recv_exit_status())
-print(''.join(stdout_data))
-print(''.join(stderr_data))
+print(stdout_data)
+print('Standard Error Output is : ')
+print(stderr_data)
 
 session.close()
 client.close()
