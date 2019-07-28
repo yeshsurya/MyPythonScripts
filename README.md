@@ -32,3 +32,7 @@ All the files will be moved based on extension name into those respecitve folder
 <hr>
 <h2> Remote SSH Command Executer </h2>
 <li> Project vision is to pick a file containing list of hosts and command to be executed and print the required result to output file</li>
+
+<hr> 
+<h2> Make Slides From Video </h2>
+<li> Get only snaps from video as and when only there is change in them. Helps get notes of a online course generated automatically. </li>
