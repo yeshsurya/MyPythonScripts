@@ -5,7 +5,7 @@ import shutil
 # print(os.path.join(os.environ['HOMEPATH'])+"\Desktop")
 filePath = os.path.abspath(os.getenv('HOMEPATH'))+"\Desktop"
 txLogPath = filePath+"\\trasactionLog.log"
-logFile = open(txLogPath,'w')
+#logFile = open(txLogPath,'w')
 def writeLog(logMessage):
     logFile.write(logMessage+"\n")
 # print(os.W_OK)
