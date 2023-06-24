@@ -36,3 +36,12 @@ All the files will be moved based on extension name into those respecitve folder
 <hr> 
 <h2> Make Slides From Video </h2>
 <li> Get only snaps from video as and when only there is change in them. Helps get notes of a online course generated automatically. </li>
+
+<hr>
+
+<h2> Latent Semantic Analysis </h2>
+<li> In this example, we use the LSA (Latent Semantic Analysis) summarization algorithm from sumy. You can adjust the num_sentences parameter to specify the desired length of the summary. </li>
+
+<hr>
+<h2> GenCaptionsForVideo </h2>
+<li> To generate captions for a video input using Python, you can utilize the Deep Learning-based video captioning model and the moviepy library for video processing. </li>
