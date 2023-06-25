@@ -3,7 +3,7 @@ from bs4 import BeautifulSoup
 from collections import deque
 
 # URL of the website to scrape
-url = "https://www.example.com"
+url = "https://netflixtechblog.com/"
 
 # Maximum depth for breadth-first traversal
 max_depth = 2
