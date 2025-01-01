@@ -45,3 +45,8 @@ All the files will be moved based on extension name into those respecitve folder
 <hr>
 <h2> GenCaptionsForVideo </h2>
 <li> To generate captions for a video input using Python, you can utilize the Deep Learning-based video captioning model and the moviepy library for video processing. </li>
+
+<hr>
+<h2>Package Compatibility Resolver </h2>
+
+<li>To find the versions of specified packages that were the latest on a given date. Get the list of valid pypi packages and date. </li>
